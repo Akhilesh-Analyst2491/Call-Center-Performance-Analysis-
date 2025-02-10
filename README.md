@@ -26,23 +26,43 @@ Before analysis, the following preprocessing steps were performed:
 ## KPIs and Analysis
 The analysis focuses on the following KPIs to assess call center performance:
 - **Total number of calls**
-- 
-- **Total answered and rejected calls**
-- 
-- **Percentage of answered and rejected calls**
-- 
-- **Total resolved and unresolved calls**
-- 
-- **Top agent who answered the most calls**
-- 
-- **Top agent with the highest satisfaction rate**
-- 
-- **Total number of calls by topic**
-- 
-- **Call duration by agent**
-- 
-- **Total calls by days and months for 2021**
+ 
+ ![Image](https://github.com/user-attachments/assets/ec02dd4a-f201-41ab-99ee-36d9bbc20118)
 
+- **Total answered and rejected calls**
+ 
+ ![Image](https://github.com/user-attachments/assets/ce9a8901-36c0-4645-bc4b-97d488f07ba1)
+
+- **Percentage of answered and rejected calls**
+ 
+ ![Image](https://github.com/user-attachments/assets/3e5af8ea-9e0b-4982-b99a-1e53fecab686)
+
+- **Total resolved and unresolved calls**
+ 
+ ![Image](https://github.com/user-attachments/assets/5f997234-5db0-49ce-b113-c63e4aad82e1)
+
+- **Top agent who answered the most calls**
+ 
+ ![Image](https://github.com/user-attachments/assets/d3c5fe9d-978f-436a-a834-b32f0e4020b7)
+
+- **Top agent with the highest satisfaction rate**
+ 
+ ![Image](https://github.com/user-attachments/assets/9e63999e-e01c-46f3-8e38-9d672e82c9d1)
+
+- **Total number of calls by topic**
+ 
+ ![Image](https://github.com/user-attachments/assets/120142c0-388d-4b33-adff-efa5497cbcb5)
+
+- **Call duration by agent**
+ 
+ ![Image](https://github.com/user-attachments/assets/392fa7d6-ab67-4e40-b7db-cf0cee9bd050)
+
+- **Total calls by days and months for 2021**
+ 
+ ![Image](https://github.com/user-attachments/assets/f4ef974e-2222-4fd0-b9f2-611b694260a3)
+
+ ![Image](https://github.com/user-attachments/assets/1662e576-76d3-48fb-929c-0d026123b37e)
+ 
 
 ## Visualizations
 The following visualizations have been created:
@@ -71,13 +91,7 @@ Satisfaction Rate = AVERAGE(Call_Center[SATISFACTION RATE])
 Here are some screenshots of the Power BI Dashboard:
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/overview_dashboard.png)
-
-### Calls by Topic
-![Calls by Topic](screenshots/calls_by_topic.png)
-
-### Agent Performance
-![Agent Performance](screenshots/agent_performance.png)
+[Call centere performance.pdf](https://github.com/user-attachments/files/18731387/Call.centere.performance.pdf)
 
 ## Power BI Dashboard Link
 You can access the Power BI dashboard using the following link:
