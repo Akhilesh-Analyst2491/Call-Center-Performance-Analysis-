@@ -26,15 +26,23 @@ Before analysis, the following preprocessing steps were performed:
 ## KPIs and Analysis
 The analysis focuses on the following KPIs to assess call center performance:
 - **Total number of calls**
+- 
 - **Total answered and rejected calls**
+- 
 - **Percentage of answered and rejected calls**
+- 
 - **Total resolved and unresolved calls**
+- 
 - **Top agent who answered the most calls**
+- 
 - **Top agent with the highest satisfaction rate**
+- 
 - **Total number of calls by topic**
+- 
 - **Call duration by agent**
+- 
 - **Total calls by days and months for 2021**
-- **Overall 2021 performance rating**
+
 
 ## Visualizations
 The following visualizations have been created:
