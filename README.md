@@ -93,10 +93,6 @@ Here are some screenshots of the Power BI Dashboard:
 ### Overview Dashboard
 [Call centere performance.pdf](https://github.com/user-attachments/files/18731387/Call.centere.performance.pdf)
 
-## Power BI Dashboard Link
-You can access the Power BI dashboard using the following link:
-[Power BI Dashboard]()
-
 ## Tools Used
 - **Power BI** for data visualization and dashboard creation
 - **Excel** for initial data cleaning and formatting
